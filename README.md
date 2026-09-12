@@ -183,4 +183,4 @@ This makes the Warshall procedure independent of the particular implementation u
 
 ## References
 
-[1] M. H. Trinh and H.-S. Ahn, *Warshall algorithms for matrix-weighted graphs*, arXiv preprint arXiv:2510.18260, 2025.
+[1] M. H. Trinh and H.-S. Ahn, *Warshall algorithms for matrix-weighted graphs*, arXiv preprint (arXiv:2510.18260)[https://arxiv.org/abs/2510.18260], 2026.
